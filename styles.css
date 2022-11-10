@@ -1,3 +1,5 @@
+@import './components/Header/Header.css';
+
 body {
   display: grid;
   grid-template-rows: 3rem auto 3rem;
@@ -5,7 +7,6 @@ body {
   margin: 0;
 }
 
-header,
 footer {
   background-color: darkgreen;
 }
