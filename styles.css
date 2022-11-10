@@ -1,12 +1,9 @@
-@import "./components/Footer/footer.css";
+@import './components/Header/Header.css';
+@import './components/Footer/Footer.css';
 
 body {
   display: grid;
   grid-template-rows: 3rem auto 3rem;
   height: 100vh;
   margin: 0;
-}
-
-header {
-  background-color: darkgreen;
 }
