@@ -1,0 +1,11 @@
+body {
+  display: grid;
+  grid-template-rows: 3rem auto 3rem;
+  height: 100vh;
+  margin: 0;
+}
+
+header,
+footer {
+  background-color: darkgreen;
+}
